@@ -1,4 +1,6 @@
 # Balances8Columnas
+link to video: https://drive.google.com/file/d/1iO--kExQbLMvaW-iGL-pOqS_1eNM2K-e/view?usp=sharing
+
 ## Introducción
 
 Hola Mundo! Soy Andrés, tengo formación y experiencia trabajando en campos relacionados a Data Science, análisis de datos y finanzas en pequeñas y medianas empresas.
